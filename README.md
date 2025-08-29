@@ -109,7 +109,8 @@ This Travel Memories Journal project can be used to:
 <img width="1920" height="906" alt="image" src="https://github.com/user-attachments/assets/8451f0a8-d0a6-4196-baf1-49953f27f256" />
 
 -----
-<img width="1920" height="376" alt="image" src="https://github.com/user-attachments/assets/c2e24651-da50-4322-9ee2-3326c95ec938" />
+<img width="1896" height="301" alt="image" src="https://github.com/user-attachments/assets/6bd8f953-e69f-4e28-9048-40f3a6a31c5b" />
+
 
 ------
 ## 📌conclusion  🔚
